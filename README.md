@@ -1,1 +1,1 @@
-# Computer-Graphics-Lab-OpenGL-
+# Computer-Graphics-Lab-OpenGL
